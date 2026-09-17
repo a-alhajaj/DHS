@@ -1,8 +1,7 @@
 ---
-permalink: /A1.md/
 title: "A1"
-permalink: /posts/
-layout: posts
+permalink: /A1/
+layout: single
 author_profile: true
 ---
 
