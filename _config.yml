@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Aljood Alhajaj"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "hi hi hi."
+  bio    : "你好！Hii هلا."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
