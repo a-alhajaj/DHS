@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Aljood Alhajaj"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "你好！Hii هلا."
+  bio    : "你好！我是安洁。我是纽约大学阿布扎比分校的大四学生。"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
