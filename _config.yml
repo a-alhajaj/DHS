@@ -61,18 +61,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "你好！我是安洁。我是纽约大学阿布扎比分校的大四学生。"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Linkedin"
+      url: "https://www.linkedin.com/in/aljood/"
 
 footer:
   links:
